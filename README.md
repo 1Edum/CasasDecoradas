@@ -1,3 +1,3 @@
 ### Design landing page decorations
 
-Projeto Criado para treinar conhecimentos sobre Vídeo no HTML
+Decorated Houses Project, reinforces knowledge of videos. Created responsive mode for mobile using classes in javascript.
